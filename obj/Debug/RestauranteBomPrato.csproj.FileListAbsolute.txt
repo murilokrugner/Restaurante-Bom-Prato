@@ -1,0 +1,22 @@
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\bin\Debug\RestauranteBomPrato.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\bin\Debug\RestauranteBomPrato.exe
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\bin\Debug\RestauranteBomPrato.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.csprojAssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.FrmPrincipal.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.FrmDinheiroRecebido.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.FrmFechamento.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.Properties.Resources.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.exe
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato\obj\Debug\RestauranteBomPrato.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\bin\Debug\RestauranteBomPrato.exe.config
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\bin\Debug\RestauranteBomPrato.exe
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\bin\Debug\RestauranteBomPrato.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.csprojAssemblyReference.cache
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.FrmPrincipal.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.FrmDinheiroRecebido.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.FrmFechamento.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.Properties.Resources.resources
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.csproj.GenerateResource.cache
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.exe
+C:\Users\muril\OneDrive\Área de Trabalho\C# - 27052020\RestauranteBomPrato - Murilo A. Krugner A. Leite - Quiz Aula 12\obj\Debug\RestauranteBomPrato.pdb
